@@ -38,6 +38,7 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 # Installation
 ```
 pip install chatterbox-tts
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126
 ```
 
 
